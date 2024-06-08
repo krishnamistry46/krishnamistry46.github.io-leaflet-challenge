@@ -62,7 +62,6 @@ Gather and Plot More Data
 
 Plot a second dataset on your map to illustrate the relationship between tectonic plates and seismic activity.
 Have pulled  the  dataset and visualized it alongside the original data. 
-Data on tectonic plates can be found at https://github.com/fraxen/tectonicplatesLinks to an external site..
 
 
 Performec the following tasks:
@@ -77,7 +76,7 @@ Added layer controls to the map.
 
 <img width="1122" alt="image" src="https://user-images.githubusercontent.com/116701851/229044171-7cb6866f-5493-4a3a-a464-6de7c5c349e7.png">
 
-You can find the visualization link on  file:///Users/meeragnair/Desktop/leaflet/Starter_Code%203/Leaflet-/index.html
+
 
 
 
